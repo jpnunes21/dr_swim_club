@@ -1,0 +1,2 @@
+/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/armeabi-v7a/CMakeFiles/rebuild_cache.dir

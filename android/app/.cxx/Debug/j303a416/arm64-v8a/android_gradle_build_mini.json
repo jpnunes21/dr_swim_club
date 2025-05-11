@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/joao/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/joao/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/joao/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

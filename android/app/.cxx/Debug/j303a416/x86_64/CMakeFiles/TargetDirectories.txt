@@ -1,0 +1,2 @@
+/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/x86_64/CMakeFiles/edit_cache.dir
+/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club/android/app/.cxx/Debug/j303a416/x86_64/CMakeFiles/rebuild_cache.dir

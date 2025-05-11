@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/joao/Faculdade/5-semestre/Programação Android/Projeto/dr_swim_club_api/dr_swim_club_b_api/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
