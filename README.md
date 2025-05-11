@@ -3,7 +3,7 @@
 ````markdown
 # 🏊‍♂️ D&R Swim Club - Aplicativo de Cadastro e Gerenciamento
 
-Bem-vindo ao projeto **D&R Swim Club**, um aplicativo desenvolvido em **Flutter** para Android que simula o cadastro e a exibição de informações de alunos de uma escola de natação fictícia. A aplicação se comunica com uma **API Python (Flask)** que armazena os dados em um banco de dados **SQLite**.
+Bem-vindo ao projeto D&R Swim Club, um aplicativo desenvolvido em Flutter para Android que simula o cadastro e a exibição de informações de alunos de uma escola de natação fictícia. A aplicação se comunica com uma API Python (Flask) que armazena os dados em um banco de dados SQLite.
 
 ---
 
